@@ -1,4 +1,11 @@
 # BitcoinVsNasdaq
 
-## Nesse projeto de SQL com Power Bi, tento mostrar a correlação que o Bitcoin pode ter com o Indice da Nasdaq e faço mais algumas comparações com outras Big Techs, usado como base o livro Storytelling com Dados que me ajudou a deixar meu Dashboard mais limpo e com uma melhor estética.
-### Obs: Dados de 19 de Julho de 2010 até o dia 27 maio de 2022, somente o valor atual que está com atualização de praticamente de 20 em 20 minutos.
+## Introduction
+
+In this SQL project with Power Bi, I try to show the correlation that Bitcoin can have with the Nasdaq Index and make some more comparisons with other Big Techs, using as a basis the Storytelling with Data book that helped me to make my Dashboard more clean and with a better aesthetic.
+
+### Note: Data from July 19, 2010 to May 27, 2022, only the current value that is updated practically every 20 minutes.
+
+## Technology Used
+
+- Power Bi
